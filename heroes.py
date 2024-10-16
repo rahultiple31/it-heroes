@@ -1,1 +1,1 @@
-prin("Hello Team- Its version:3...!!!")
+print("Hello Team- Its version:3...!!!")
